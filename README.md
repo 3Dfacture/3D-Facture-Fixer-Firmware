@@ -2,6 +2,7 @@
 Beta Version, Copyright:  3D Facture LLC,  2016
 
 1.The Fixer is a simple program based on Maple Mini.Open the official website link:http://leaflabs.com/docs/, find and download Maple-IDE corresponding to your PC system.(If you PC system is Win64,please download maple-IDE(win-XP) first,then do as step 6);
+For windows, you can also download here: https://drive.google.com/open?id=0B_z1o2wbT3J4ZmNQMTBqb0Z3Z2s
 
 2.Copy maple-ide-0.0.12-windowxp32.zip to :/D,and unzip;
 
